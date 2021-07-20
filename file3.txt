@@ -1,2 +1,4 @@
 third file created again
 changes for rebase
+
+changed
